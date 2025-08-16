@@ -17,11 +17,5 @@ Sou dedicado, curioso e apaixonado por tecnologia. Estudando **Análise e Desenv
 
 ---
 
-## 📊 Estatísticas do GitHub
-![Jackson GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)
-
----
 
 ✨ Obrigado por visitar meu perfil!
